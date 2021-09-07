@@ -12,10 +12,10 @@
 
 如果您喜欢该项目，希望您可以支持一下作者哦（微信赞赏码小额支持），感谢！同样，欢迎大家为该项目提issue、提交PR、star
 
-![赞赏码](https://github.com/mty365/LogDumpForWindows/blob/main/images/support.png)
+![赞赏码](https://github.com/mty365/LogDumpForWindows/blob/master/images/support.png)
 
 工具运行截图：
 
-![cache](https://github.com/mty365/LogDumpForWindows/blob/main/images/cache.PNG)
+![cache](https://github.com/mty365/LogDumpForWindows/blob/master/images/cache.PNG)
 
-![logcat](https://github.com/mty365/LogDumpForWindows/blob/main/images/logcat.PNG)
+![logcat](https://github.com/mty365/LogDumpForWindows/blob/master/images/logcat.PNG)
